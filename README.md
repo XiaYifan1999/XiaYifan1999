@@ -15,17 +15,21 @@
 
 
 ## 🎓 Education  
-- **Ph.D. Candidate** in Computer Vision & Graphics, Wuhan University, School of Electronic Information  
-- B.Eng. in [你的本科专业], [你的本科院校]  
+- **Ph.D. Student**, School of Electronic Information, Wuhan University (2021 – Present)  
+  - Laboratory of Multispectral Visual Information Processing  
+  - Research focus: Computer Vision & Graphics  
+- **B.Eng.**, School of Electronic Information, Wuhan University (2017 – 2021)  
+  - Excellence Engineer Program  
 
 ## 🏆 Awards  
-- [奖项名称1]（年份，主办方）  
-- [奖项名称2]（年份，主办方）  
+- Second Prize, Academic Innovation Award  
+- First Prize, Academic Scholarship  
+- National Second Prize, Graduate Mathematical Modeling Competition  
+- University-level "Outstanding Student" (三好学生)  
 
-## 🔬 Research Interests  
-- Image matching and registration  
-- Shape analysis and 3D correspondence  
-- Multimodal image processing and spectral methods  
+## 🔬 Research Project  
+- **Research on Probabilistic Joint Learning for Multimodal Image Registration**  
+  - Funded by the **National Natural Science Foundation of China (NSFC) Youth Program, 2024** (as Ph.D. student principal investigator)  
 
 ## 📫 Contact  
 - Email: **xiayifan0329@gmail.com**  
