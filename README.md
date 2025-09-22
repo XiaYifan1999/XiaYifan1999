@@ -3,7 +3,7 @@
 # <p align="center">🔍 Exploring Intelligent Vision and Graphics 🔍</p>
 
 
-🌱 **Repositories** 🌱
+🌱 **Repositories** 🌱  
 |   Topic   |     Title     |    Resource  | Publication |
 |:---------:|:-------------:|:------------:|:-----------:|
 | Image Feature Matching | [Grid-Guided Sparse Laplacian Consensus for Robust Feature Matching](https://ieeexplore.ieee.org/abstract/document/10891339) | [![Static Badge](https://img.shields.io/badge/PDF-Download-blue)](https://github.com/XiaYifan1999/XYF/blob/main/Grid-Guided_Sparse_Laplacian_Consensus_for_Robust_Feature_Matching.pdf) [![GitHub Repo stars](https://img.shields.io/github/stars/XiaYifan1999/GSLC?style=social)](https://github.com/XiaYifan1999/GSLC) | IEEE TIP 2025 |
@@ -13,10 +13,25 @@
 | Image Feature Matching | [Locality-Guided Global-Preserving Optimization for Robust Feature Matching](https://ieeexplore.ieee.org/document/9843864) | [![Static Badge](https://img.shields.io/badge/PDF-Download-blue)](https://github.com/XiaYifan1999/XYF/blob/main/Locality-Guided_Global-Preserving_Optimization_for_Robust_Feature_Matching.pdf) [![GitHub Repo stars](https://img.shields.io/github/stars/XiaYifan1999/LOGO?style=social)](https://github.com/XiaYifan1999/LOGO) | IEEE TIP 2022 |
 | Image Feature Matching | [Robust Image Matching via Local Graph Structure Consensus](https://www.sciencedirect.com/science/article/pii/S0031320322000693) | [![Static Badge](https://img.shields.io/badge/PDF-Download-blue)](https://github.com/XiaYifan1999/XYF/blob/main/Robust%20image%20matching%20via%20local%20graph%20structure%20consensus.pdf) [![GitHub Repo stars](https://img.shields.io/github/stars/XiaYifan1999/LGSC?style=social)](https://github.com/XiaYifan1999/LGSC) | PR 2022 |
 
-- 🔭 I’m currently studying at the School of Electronic Information, Wuhan University.  
-- 🌱 I’m currently learning deep learning and computer graphics.  
-- 👯 I’m looking to collaborate on projects related to computer vision and shape matching.  
-- 💬 Ask me about image matching, multimodal registration, or spectral methods.  
-- 📫 How to reach me: xiayifan0329@gmail.com  
-- 😄 Interests: basketball, fitness, and movies.  
--->
+
+## 🎓 Education  
+- **Ph.D. Candidate** in Computer Vision & Graphics, Wuhan University, School of Electronic Information  
+- B.Eng. in [你的本科专业], [你的本科院校]  
+
+## 🏆 Awards  
+- [奖项名称1]（年份，主办方）  
+- [奖项名称2]（年份，主办方）  
+
+## 🔬 Research Interests  
+- Image matching and registration  
+- Shape analysis and 3D correspondence  
+- Multimodal image processing and spectral methods  
+
+## 📫 Contact  
+- Email: **xiayifan0329@gmail.com**  
+- [Google Scholar](https://scholar.google.com/citations?user=你的ID)  
+
+## 🎯 Hobbies  
+- Basketball 🏀  
+- Fitness 💪  
+- Movies 🎬  
