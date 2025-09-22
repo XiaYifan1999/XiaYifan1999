@@ -25,7 +25,7 @@
 - Second Prize, Academic Innovation Award  
 - First Prize, Academic Scholarship  
 - National Second Prize, Graduate Mathematical Modeling Competition  
-- University-level "Outstanding Student" (三好学生)  
+- University-level "Outstanding Student"
 
 ## 🔬 Research Project  
 - **Research on Probabilistic Joint Learning for Multimodal Image Registration**  
