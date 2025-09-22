@@ -16,8 +16,7 @@
 
 ## 🎓 Education  
 - **Ph.D. Student**, School of Electronic Information, Wuhan University (2021 – Present)  
-  - Laboratory of Multispectral Visual Information Processing  
-  - Research focus: Computer Vision & Graphics  
+  - Laboratory of Multispectral Visual Information Processing 
 - **B.Eng.**, School of Electronic Information, Wuhan University (2017 – 2021)  
   - Excellence Engineer Program  
 
