@@ -27,6 +27,7 @@
 - First Prize, Academic Scholarship  
 - National Second Prize, Graduate Mathematical Modeling Competition  
 - University-level "Outstanding Student"
+- Fourth Place, Wuhan University Graduate Men’s Basketball Team
 
 ## 🔬 Research Project  
 - **Research on Probabilistic Joint Learning for Multimodal Image Registration**  
