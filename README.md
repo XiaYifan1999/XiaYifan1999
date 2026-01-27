@@ -22,6 +22,7 @@
   - Excellence Engineer Program  
 
 ## 🏆 Awards  
+- Lei Jun Excellence Scholarship
 - Second Prize, Academic Innovation Award  
 - First Prize, Academic Scholarship  
 - National Second Prize, Graduate Mathematical Modeling Competition  
