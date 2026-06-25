@@ -41,4 +41,5 @@
 ## 🎯 Hobbies  
 - Basketball 🏀  
 - Fitness 💪  
+- Fiction 📚
 - Movies 🎬  
